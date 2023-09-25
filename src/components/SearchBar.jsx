@@ -1,4 +1,4 @@
-import { Search } from "@mui/icons-material";
+import { SearchTwoTone } from "@mui/icons-material";
 import { IconButton, Paper } from "@mui/material";
 
 const SearchBar = () => {
@@ -19,7 +19,7 @@ const SearchBar = () => {
         }}
       >
         <IconButton type="submit" sx={{ pl: "50px", color: "grey" }}>
-          <Search />
+          <SearchTwoTone />
         </IconButton>
         <input
           placeholder="Search for a postcode or place name"
