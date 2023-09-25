@@ -10,7 +10,7 @@ const PostCode = () => {
             <img
               className="ri-filter-3-line-icon"
               alt=""
-              src="src/assets/ri-filter-3-line.svg"
+              src="src/ri-filter-3-line.svg"
             />
             <div>Filter</div>
           </div>
@@ -42,11 +42,11 @@ const PostCode = () => {
           </div>
           <div className="page">
             <button>
-              <img src="src/assets/ri-arrow-left-s-line (1).svg" alt="" />
+              <img src="src/ri-arrow-left-s-line (1).svg" alt="src/ri-arrow-left-s-line (1).svg" />
             </button>
             <span className="pages"> Page 1 of 3</span>
             <button>
-              <img src="src/assets/ri-arrow-left-s-line.svg" alt="" />
+              <img src="src/ri-arrow-left-s-line.svg" alt="src/ri-arrow-left-s-line.svg" />
             </button>
           </div>
         </div>

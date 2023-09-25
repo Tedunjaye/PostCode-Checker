@@ -8,7 +8,7 @@ const Map = () => {
         <h4>{`Find out nearest postcode to where you are right now. Read what other people have said about your postcode and leave your own comments for others to read.`} 
         </h4>
       </div>
-      <img src="src/assets/Rectangle 15.png" alt="" />
+      <img src="src/Rectangle 15.png" alt="src/Rectangle 15.png" />
     </div>
   )
 }
