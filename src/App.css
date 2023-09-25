@@ -62,6 +62,7 @@ font-weight: 400;
 .detail img {
   width: 50%;
   height: 50%;
+  border-radius: 5px;
 }
 .detail div {
   width: 50%;
@@ -156,7 +157,7 @@ font-weight: 400;
   align-items: center;
   background-color: #fafdfa;
   border: none;
-  box-shadow: 0 2px rgba(0, 0, 0, 0.03);
+  box-shadow: 0 2px rgba(0, 0, 0, 0.2);
 }
 
 .map {
@@ -170,6 +171,7 @@ font-weight: 400;
 .map img {
   width: 50%;
   height: 50%;
+  border-radius: 5px;
 }
 .map div {
   width: 50%;

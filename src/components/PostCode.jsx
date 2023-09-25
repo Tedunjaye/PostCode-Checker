@@ -42,11 +42,11 @@ const PostCode = () => {
           </div>
           <div className="page">
             <button>
-              <img src="src/ri-arrow-left-s-line (1).svg" alt="src/ri-arrow-left-s-line (1).svg" />
+              <img src="src/ri-arrow-left-s-line (1).svg" alt="" />
             </button>
             <span className="pages"> Page 1 of 3</span>
             <button>
-              <img src="src/ri-arrow-left-s-line.svg" alt="src/ri-arrow-left-s-line.svg" />
+              <img src="src/ri-arrow-left-s-line.svg" alt="" />
             </button>
           </div>
         </div>
